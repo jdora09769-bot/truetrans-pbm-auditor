@@ -1,0 +1,12 @@
+/* Add your styles here */
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+    
+    .App {
+      text-align: center;
+      margin-top: 50px;
+    }
